@@ -1,22 +1,23 @@
-<h1 align="center">Hi 👋, I'm Yaren Yuksel</h1>
-<h3 align="center">A Passionate Junior Data Analyst</h3>
+### Hi there 👋, Yaren Yuksel
+#### Junior Data Analyst
+Data Analyst with civil engineering background. Seeking to leverage analytical skills for data-driven insights.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yarenyksl&label=Profile%20views&color=0e75b6&style=flat" alt="yarenyksl" /> </p>
+Skills: Excel | SQL | POWER BI | PYTHON
 
-- 🌱 I’m currently learning **EXCEL, SQL, POWER BI, PYTHON**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning SQL for Data Analytics ,Querying Clauses and DML & DLL Operations, Power BI for Data Analytics, Python, Data Manipulation and Reporting 
+- 📫 How to reach me: yarenyksll@outlook.com 
 
-- 📫 How to reach me **yarenyksll@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yareny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yareny/" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yarenyksl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yareny//)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yarenyksl&show_icons=true&locale=en&layout=compact" alt="yarenyksl" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=yarenyksl)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yarenyksl&show_icons=true&locale=en" alt="yarenyksl" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarenyksl)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yarenyksl&" alt="yarenyksl" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yarenyksl&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=yarenyksl)  
+
